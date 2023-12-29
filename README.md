@@ -1,4 +1,4 @@
-# AWS-lambda-whatsApp-webhook
+# whatsApp Webhook on AWS Lambda
 
 This template demonstrates how to develop and deploy a simple Node Express Webhook Listener with AWS Lambda using the Serverless Framerwork.
 
