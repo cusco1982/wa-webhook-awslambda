@@ -1,0 +1,6 @@
+name: wa-webhook-awslambda
+org: abstract
+description: Deploys a Node Express API service with Serverless Framework
+keywords: aws, serverless, faas, lambda, node, express, whatsapp, webhook
+repo: https://github.com/cusco1982/wa-webhook-awslambda
+license: MIT
